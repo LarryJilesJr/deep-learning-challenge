@@ -20,7 +20,8 @@ The purpose of this analysis is to develop a deep learning model using neural ne
 
 - Neurons, Layers, and Activation Functions: The neural network model consists of multiple hidden layers with varying numbers of neurons and activation functions. Specifically, it includes layers with 100, 30, and 10 neurons respectively, followed by an output layer with a sigmoid activation function. These choices were made to create a model with sufficient capacity to learn complex patterns in the data while avoiding overfitting.
 
-![Defining the Model](image.png)
+![Defining the model_1](image-2.png)
+![Defining the model_2](image-3.png)
 
 - Achievement of Target Model Performance: The target model performance of achieving greater than 75% accuracy was successfully achieved.
 - Steps to Increase Model Performance: To improve model performance, various steps were taken, including adjusting the architecture, tuning hyperparameters, and preprocessing the data. Techniques such as dropout regularization and batch normalization were also employed to prevent overfitting and improve generalization. The model reached 79% accuracy which exceeds the models 75% target. 
