@@ -40,3 +40,12 @@ The deep learning model developed for Alphabet Soup achieved the target model pe
 A different approach to solving this classification problem could involve using ensemble methods such as Random Forest or Gradient Boosting. These models are known for their robustness, interpretability, and ability to handle tabular data effectively. Additionally, ensemble techniques can combine multiple models to further enhance predictive accuracy and generalization, providing a complementary approach to deep learning models.
 
 In summary, the deep learning model demonstrated promising results in predicting the success of funding applicants for Alphabet Soup. However, exploring alternative modeling techniques and ensemble methods could provide additional insights and further improve predictive performance, ultimately aiding Alphabet Soup in making informed decisions about funding allocation.
+
+--
+**Source Data: 
+
+Chat GPT Provider: OpenAI Model Version: GPT-3.5 Training Data: Diverse internet text Training Duration: Training duration was about 1-2 hours @article{openai2023, author = {OpenAI}, title = {ChatGPT: A Language Model by OpenAI}, year = {2023}, url = {https://www.openai.com}, }
+
+Class Videos
+
+Stackoverflow
